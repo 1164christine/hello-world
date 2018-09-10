@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+
+Soba ni kite kuzure iku yokusei boku wo kowagaranai de
